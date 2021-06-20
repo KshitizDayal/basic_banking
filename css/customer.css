@@ -1,0 +1,46 @@
+html{
+    scroll-behavior: smooth;
+
+}
+
+
+body{
+    padding:2%;
+    background:linear-gradient(-45deg,#FE7752,#E73C7E,#23A6D5,#23D5AB);
+    
+}
+
+table{
+    margin-top: 2%;
+}
+
+h1{
+    text-align:center;
+    font-family: 'Montserrat', sans-serif;
+    color: #ff0000;
+    
+  
+}
+
+.back{
+    border-radius: 30px;
+    padding: 20px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #ff57ac;
+    border: none;
+    color: white;
+    margin:auto;
+    margin-top: 2%;
+    display: block;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+a{
+    text-decoration:none;
+}
+
+
