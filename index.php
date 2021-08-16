@@ -49,7 +49,7 @@
           <li class="dropdown"><a href="#services"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="customer.php">Customer Details</a></li>
-              <li><a href="transaction.php">Transaction Detail</a></li>
+              <li><a href="transfer.php">Transaction Detail</a></li>
               <li><a href="form.php">Create New User</a></li>
               
             </ul>
@@ -114,7 +114,7 @@
               <i class="ri-discuss-line icon"></i>
               
               
-              <a href="transaction.php" class="read-more"><span><h3>Transaction Details</h3></span> <i class="bi bi-arrow-right"></i></a>
+              <a href="transfer.php" class="read-more"><span><h3>Transaction Details</h3></span> <i class="bi bi-arrow-right"></i></a>
             </div>
           </div>
 
