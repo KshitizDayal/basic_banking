@@ -14,4 +14,4 @@ The above two are the screenshot of all the columns that the table contains.
 
 The project is hosted on 000webhost whose link is https://abx-sparkfoundation.000webhostapp.com/
 
-I have made a complete explaintory video of my project and uploaded it on github whose link is https://www.youtube.com/watch?v=CDY5WdGApS4
+I have made a complete explaintory video of my project and uploaded it on youtube whose link is https://www.youtube.com/watch?v=CDY5WdGApS4
